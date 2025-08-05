@@ -1,0 +1,20 @@
+# Output directories
+output/*
+
+# Keep directory structure
+!output/audio/.gitkeep
+!output/images/.gitkeep
+!output/videos/.gitkeep
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
