@@ -73,14 +73,12 @@ It is important to speak clearly and at a steady pace.
 Thank you for listening to my voice recording.
 ```
 
-
 ## Usage
 
 ### Quick Start (Full Pipeline)
 ```
 make all
 ```
-
 
 ### Individual Steps
 
@@ -93,14 +91,6 @@ make all
 3. **Create video from images and audio**:
 `make video` or `python src/ITV.py`
 
-
-### Development Commands
-```
-make setup # Setup project structure and virtual environment
-make clean # Clean output directories
-```
-
-
 ## How It Works
 
 1. **Text Processing**: The system reads `assets/text.txt` and splits it into paragraphs
@@ -108,12 +98,6 @@ make clean # Clean output directories
 3. **Image Generation**: Relevant images are created for each text paragraph
 4. **Video Composition**: Images are animated with zoom effects and synchronized with audio
 5. **Final Output**: A complete video file is generated in the `output/videos/` directory
-
-## Output
-
-- **Audio files**: Individual audio segments for each paragraph
-- **Image files**: Generated images corresponding to each text segment
-- **Video file**: Final composed video with audio synchronization and visual effects
 
 ## Customization
 
