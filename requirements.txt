@@ -1,17 +1,17 @@
 chatterbox-tts==0.1.2
 torch==2.6.0+cu124 
---index-url https://download.pytorch.org/whl/cu124
+--extra-index-url https://download.pytorch.org/whl/cu124
 torchvision==0.21.0+cu124 
---index-url https://download.pytorch.org/whl/cu124
+--extra-index-url https://download.pytorch.org/whl/cu124
 torchaudio==2.6.0+cu124 
---index-url https://download.pytorch.org/whl/cu124
+--extra-index-url https://download.pytorch.org/whl/cu124
 diffusers==0.29.0
 sentencepiece==0.2.0
 dotenv==0.9.9
 accelerate==1.8.1
 huggingface-hub==0.33.4
 xformers==0.0.29.post3
---index-url https://download.pytorch.org/whl/cu124
+--extra-index-url https://download.pytorch.org/whl/cu124
 triton-windows==3.2.0.post19
 opencv-python==4.12.0.88
 pillow==11.3.0
