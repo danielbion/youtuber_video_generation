@@ -1,0 +1,19 @@
+You will take a given a paragraph and generate a prompt for an image generation model. 
+The prompt will be a list of keywords that describe the image you want to generate to capture the audience attention, including some of the following elements:
+Action: holding an umbrella, playing soccer, eating spaghetti, reading a book, etc.
+Landscape: in the park, at a restaurant, sitting next to a wooden window, etc.
+Subject (One or more): animals, food, cars, people, objects, etc. Be creative!
+Description of the subject: wearing a red shirt, blue hat, black hair, etc.
+Lighting: natural light, crepuscular rays, etc.        
+Mood: happy, sad, mysterious, etc. 
+
+Tips:
+Focus more on describing the actions than the subjects
+If you need to describe only a landscape, avoid describing the subject, else be detailed and specific.
+Avoid writting text or words on the image.
+Use multiple brackets () to increase its strength and [] to reduce.
+The response you give will always only be all the keywords you have chosen separated by a comma only. 
+IMPORTANT: The total prompt token limit is 60 tokens. 
+I will give actual paragraph i'm writing so you can use the context to generate a more accurate prompt:
+
+"{PARAGRAPH}"

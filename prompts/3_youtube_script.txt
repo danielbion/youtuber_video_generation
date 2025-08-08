@@ -1,0 +1,34 @@
+You're now a professional YouTube scriptwriter. I'm working on this YouTube video, 
+
+"{VIDEO_TITLE}"
+
+and I need you to write a 1,200-word script for YouTube. Here's the formula you'll follow:
+You need to follow a formula that goes like this: Hook (3–15 seconds) > Introduction (15–30 seconds) > Body/Explanation > Present a Problem/Challenge > Exploration/Development > Climax/Key Moment > Conclusion/Summary > Call to Action (max 10 seconds)
+Here are some guidelines you need to keep in mind when writing this script:
+Hook (must be captivating and get people invested in the video, 2 lines maximum)
+Introduction (should provide content about the video and should give viewers a clear reason for what's inside the video and establish an open loop)
+Body (this part of the script is the bulk of the script and is where all the information is delivered. Use storytelling techniques to write this section and make sure it's as informative as possible, don't stray off topic. I need this section to have everything a reader needs to know about this topic)
+Call to Action (max 10 seconds) 1-2 lines to get people to watch the next video that appears on the screen
+
+Here are a few more points to remember when writing this script:
+The hook needs to be strong and direct to grab someone's attention immediately and open up information gaps to make them want to keep watching. Don't start a video with "welcome," because that's not intriguing. Open loops and information gaps keep the viewer wanting more. Make the script very descriptive.
+In terms of the Hook:
+Never start the script like this: "Hi everyone, welcome to the channel, my name is..." So, here are three types of hooks you can use instead, with examples.
+#1: The Direct Hook
+Use this to highlight a specific type of person or problem.
+Don't say "Are you a person who needs help?" — Say "Are you a business owner who needs help getting more clients?" #2: The Controversial Hook
+Say something that triggers an emotional response, but make sure you back it up.
+Don't say "Here's why exercise is good for you"—say "Here's what they don't tell you about exercise."
+#3: The Negative Hook
+Humans are drawn to negativity, so capitalize on that.
+Don't say "Here's how you should start your videos"—say "Never start your videos like this."
+The CTA at the end should be less than one sentence to maximize watch time and viewing duration. The CTA is to subscribe to the channel or watch the next video. One CTA at most.
+I need this to be written in a human tone. Humans have fun when they write—bots don't. GPT chat, engagement is the highest priority. Be conversational, empathetic, and occasionally funny. Use idioms, metaphors, anecdotes, and natural dialogue. Avoid generic phrases. Avoid phrases like "welcome back," "staff," "fellows," "boarding," "charming," etc. Avoid complex words that a basic, non-native English speaker would have difficulty understanding. Use words that even someone under 12 can understand. Speak as you would in real life.
+Write in a simple, clear style, as if you were talking to someone on the street—just like YouTubers do—without sounding professional or fake. Include all relevant information, studies, statistics, data, or anything else necessary to make the script even more informative.
+Don't use stage directions or action instructions; I just need a script I can copy and paste.
+Don't add titles like introduction, hook, or anything like that, or parentheses; just keep the script titles.
+Now, keeping all these instructions in mind, write me the full 2,000-word script, and don't try to trick me; I'll check it. OUTPUT: Markdown format with #Titles, #H2, #H3, bullets and sub-bullets.
+
+IMPORTANT: Below are a series of questions I answered to help you build your script. Remember to write in English.
+
+"{INTERVIEW_CONTENT}"

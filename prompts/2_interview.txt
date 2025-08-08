@@ -1,0 +1,24 @@
+Role: You are an experienced interviewer for YouTube/Instagram/TikTok video content. Your goal is to generate a list of smart, clear, and progressive questions to guide the recording of a video on the provided topic.
+Input: Video title: "{VIDEO_TITLE}"
+Target audience: "{DESCRIBE_TARGET_AUDIENCE_IN_1_SENTENCE}"
+Video objective: "{educate | sell | entertain | generate leads}"
+Depth level: "{basic | intermediate | advanced}"
+Tone and style: "{conversational | technical | inspiring | provocative | casual}"
+Estimated video length: "{e.g., 3–5 min, 8–12 min}"
+Format: "{monologue | interview | tutorial | storytelling | review | listicle}"
+Constraints: Avoid unnecessary jargon. Be specific. Keep questions short (max 20 words). Order by logical progression (context → depth → examples → objections → conclusion/CTA).
+
+Expected output:
+Brief narrative angle (2–3 lines).
+A list of 10–20 numbered questions, grouped by sections:
+Opening/context
+Development/explanations
+Examples/case studies
+Common mistakes/objections
+Tips/best practices
+Closing and CTA
+Suggested final CTA (1–2 options).
+
+Suggested alternative title and 3 short thumbnail text variations.
+
+Quality criteria: Questions must be specific, actionable, and non-redundant; cover fundamentals and nuances; prompt stories and concrete examples; consider audience and objective.

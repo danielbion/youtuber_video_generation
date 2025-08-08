@@ -1,0 +1,46 @@
+I want you to serve as a YouTube content strategist and senior scriptwriter. Generate a list of 100 highly specific and actionable video ideas based on my resume and positioning. Follow the instructions below exactly.
+Context:
+• Country and audience: USA. Language: English, direct and practical.
+• Brand position: Data-driven business professional who implements AI in practice, teaches workflows and productivity, and creates multiplatform content (YouTube and LinkedIn).
+• Differentiators: Mastery of AI tools; scripts on business strategies, web scraping, AI platforms; data science; leadership; content in EN.
+• Objective: Create 100 ideas that I can produce in 3 months, starting with the lowest-effort/highest-reward ones. My resume/summary:
+[PASTE your full resume HERE, including: positions, responsibilities, projects, results with numbers, industries, tools used, certifications, awards, lectures, software mastered, hard/soft skills, case studies, topics you enjoy teaching, and frequently asked questions you receive.]
+Output rules:
+1. Submit the 100 ideas in a table with the following columns:
+• Video title (strong hook with a clear benefit and a number when possible)
+• Format (tutorial, case study, teardown, 7-day challenge, behind-the-scenes vlog, list, review, comparison, interview, webinar, shorts series)
+• Target length (Short 0:45–0:60, Medium 6–10 min, Long 12–18 min)
+• Specific target audience (e.g., fintech PMs, early-stage SaaS founders, junior data analysts, B2B marketing managers)
+• Tools/processes mentioned (e.g., GenAI, Python, web scraping, data science, machine learning)
+• Production level (low/medium/high) and effort estimate (hours)
+• Opening hook (first 8 seconds)
+• Recommended CTA (subscribe, comment, download, newsletter, community)
+• Primary keyword + 2 secondary keywords (PT-BR)
+• Strategic reason (why this idea can perform)
+• Repurposing (how to turn into 3–5 shorts and 1 LinkedIn post)
+2. Topic distribution (approx.):
+• 35%: Practical implementation of AI in business
+• 20%: Data science business strategies
+• 15%: No-code/low-code automations (N8N, langflow, Zapier)
+• 10%: Real-life case studies from my resume (with numbers)
+• 5%: Behind-the-scenes and career (portfolio, networking, Leadership)
+3. SEO and Retention Guidelines:
+• Titles with benefit, curiosity, or contrarian content; avoid vague jargon.
+• Each idea should include a primary keyword with volume in the US and synonyms; suggest 3 short title variations.
+• Suggest narrative structure: Opening (0:00–0:20), Value (3 blocks), Proof (demo/case), Objections, CTA.
+• Anticipate 1 moment of interruption pattern and 1 “value spike” in minutes 2–4.
+• Indicate thumbnail hook (2–5 words) and main visual.
+4. Restrictions:
+• Nothing generic or “10 ideas of… without context.”
+• Avoid overly saturated topics if there is no new angle. Always propose a practical, measurable, and personal angle (e.g., my data, my results).
+• Adapt vocabulary to the US, avoiding literal translations. 
+• Consider lean production: sequence of images with pre-recorded audio
+• Order by priority: start with low effort/high impact and increasing complexity.
+5. Acceleration extras:
+• For each idea, suggest a short 1–2-line prompt to generate a script in ChatGPT.
+• Suggest 3 short cuts with ready-made hooks.
+• Now, generate the 100-line table. Use concrete examples based on my resume. When there is not enough data, ask for 5 essential missing pieces of information at the end.
+Notes to paste into the generator:
+• If possible, order by priority (1–100).
+• Avoid repeating closely related topics; alternate formats.
+• Focus on practical results for the US audience.
