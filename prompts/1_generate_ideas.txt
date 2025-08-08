@@ -15,7 +15,7 @@ Output rules:
 • Production level (low/medium/high) and effort estimate (hours)
 • Opening hook (first 8 seconds)
 • Recommended CTA (subscribe, comment, download, newsletter, community)
-• Primary keyword + 2 secondary keywords (PT-BR)
+• Primary keyword + 2 secondary keywords
 • Strategic reason (why this idea can perform)
 • Repurposing (how to turn into 3–5 shorts and 1 LinkedIn post)
 2. Topic distribution (approx.):
