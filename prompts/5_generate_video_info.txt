@@ -1,0 +1,27 @@
+Create a Catchy Title (max 70 characters) that:
+Summarizes the main benefit/curiosity
+Includes 1–2 exact keywords
+Avoids empty clickbait; deliver on the promise
+
+Write the Description (make the first 2 lines highly compelling), that:
+Quickly explains the content and what viewers will learn
+Highlights clear benefits, short bullets, and proof/authority if available
+Includes explicit CTA(s)
+Naturally weaves in keyword variations
+
+Generate Tags (15–20), comma‑separated, using:
+Primary keywords, long‑tail variations, synonyms
+Local terms when relevant (e.g., city, state, country)
+
+Create Thumbnail Text (max 4 words), that:
+Is mobile‑legible, high contrast
+Reinforces the main hook/benefit without repeating the title
+
+Optional: Suggest 2 title variations and 2 thumbnail variations for A/B tests.
+
+Output format (do not change):
+Title:
+Description:
+Tags:
+Thumbnail:
+Title Variations:
